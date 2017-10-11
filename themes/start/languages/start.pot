@@ -1,0 +1,1284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Start  Genesis Child Theme\n"
+"POT-Creation-Date: 2015-02-03 17:21+0800\n"
+"PO-Revision-Date: 2015-02-03 17:21+0800\n"
+"Last-Translator: Joe Mar Aparecio <joe@zigzagpress.com>\n"
+"Language-Team: zigzagpress <joe@zigzagpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: D:\\zp_theme_files\\themes\\start"
+"\\v1.2.6\\start_theme_package_v1_2_6\\start\n"
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/functions.php:102
+msgid "Bottom Widget"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/functions.php:103
+msgid "This is the bottom widget right of footer credits"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/functions.php:183
+msgid "Read More "
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/bootstrap_class_inclusion.php:345
+msgid "Name"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/bootstrap_class_inclusion.php:347
+msgid "Email"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/bootstrap_class_inclusion.php:349
+msgid "Website"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/bootstrap_class_inclusion.php:377
+msgid "Search this website"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/class/class-super-custom-post-meta.php:544
+msgid "Uploaded image:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/class/class-super-custom-post-meta.php:547
+msgid "Uploaded file:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/class/class-super-custom-post-meta.php:550
+msgid "Remove"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/class/class-super-custom-post-meta.php:565
+#, php-format
+msgid "Set %s"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:29
+msgid "Define slide order. Ex. 1,2,3,4,..."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:38
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:99
+msgid "Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:39
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:334
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:354
+msgid "Slideshow"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:40
+msgid "Slide Order"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:41
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:102
+msgid "Date"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:54
+msgid "Unable to get slideshows(s)"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:83
+msgid "Video Link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:83
+msgid ""
+"Add video link here. Video link format: Youtube: \"http://www.youtube.com/"
+"watch?v=7HKoqNJtMTQ\", Vimeo: \"http://vimeo.com/123123\""
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:84
+msgid "Button Label"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:84
+msgid "Add button label"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:85
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:252
+msgid "Button Link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:85
+msgid "Add button link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:86
+msgid "Date Label"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:87
+msgid "Date Value"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:87
+msgid "Date Value."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:88
+msgid "Client Label"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:88
+msgid "Client Label."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:89
+msgid "Client Value"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:89
+msgid "Client Value."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:90
+msgid "Category Label"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:90
+msgid "Category Label."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:100
+msgid "Portfolio Category"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:101
+msgid "Author"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:115
+msgid "Unable to get portfolio category(s)"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:139
+msgid "Include Title and Intro?"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:139
+msgid "Select Yes to include title and intro in the section"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:140
+msgid "e.g. portfolio, blog. Then in custom menu add #portfolio, #blog..."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:141
+msgid "Enter some section intro"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:142
+msgid "Section background image."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:143
+msgid "Section background color."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:144
+msgid "Section text color."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:188
+msgid "Position"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:189
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:391
+msgid "Link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:190
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:57
+msgid "Link Target"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:190
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:233
+msgid "Target"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:198
+msgid "Dribbble link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:199
+msgid "Flickr link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:200
+msgid "Github link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:201
+msgid "Twitter link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:202
+msgid "Facebook link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:203
+msgid "Google+ link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:204
+msgid "Skype link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:205
+msgid "Tumblr link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:206
+msgid "Vimeo link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:207
+msgid "Youtube link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:208
+msgid "Linkedin link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:209
+msgid "Pinterest link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:230
+msgid "Select icons to use. Font-Awesome, Glyphicons or an Image."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:231
+msgid ""
+"Add icon classes. For font-awesome classes, please refer to this link <a "
+"href=\"http://fontawesome.io/icons/\">page</a>. For Glyphicons, refer to "
+"this <a href=\"http://getbootstrap.com/components/\">page</a> "
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:232
+msgid "Service item link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:254
+msgid "Add price. Include currency symbol ( $, €, £)"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:255
+msgid "Payment Terms. (per month, per year, annually,...etc.)"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:256
+msgid "Select if this is the best price to highlight"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:257
+msgid "Button label (Sign Up, Join Now, Buy,... )"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/cpt/zp_cpt.php:258
+msgid "Button link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:10
+msgid "Map"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:11
+msgid "Insert Map Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:14
+msgid "Map iframe"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:15
+msgid "Add map iframe taken from the embed link of google maps"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:18
+msgid "Frame Height"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:19
+msgid "Add frame height in percentage. e.g. \"30%\""
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:25
+msgid "Pricing"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:26
+msgid "Insert Pricing Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:29
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:128
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:144
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:419
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:436
+msgid "Columns"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:30
+msgid "Pricing Table Column. Option: 2, 3, 4"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:37
+msgid "Lead Text"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:38
+msgid "Insert Lead Text Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:41
+msgid "Content here"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:42
+msgid "Styled paragragh text"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:48
+msgid "Social Icons"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:49
+msgid "Insert Social Icons Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:52
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:424
+msgid "Alignment"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:53
+msgid "Select social alignment"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:58
+msgid "Select link target"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:62
+msgid "Dribbble"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:63
+msgid "Add dribbble url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:66
+msgid "Flickr"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:67
+msgid "Add flickr url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:70
+msgid "Github"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:71
+msgid "Add github url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:74
+msgid "Pinterest"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:75
+msgid "Add pinterest url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:78
+msgid "Twitter"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:79
+msgid "Add twitter url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:82
+msgid "Facebook"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:83
+msgid "Add facebook url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:86
+msgid "Google+"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:87
+msgid "Add google+ url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:90
+msgid "Skype"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:91
+msgid "Add skype url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:94
+msgid "Tumblr"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:95
+msgid "Add tumblr url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:98
+msgid "Vimeo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:99
+msgid "Add vimeo url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:102
+msgid "Youtube"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:103
+msgid "Add youtube url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:106
+msgid "LinkedIn"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:107
+msgid "Add linkedin url"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:113
+msgid "Contact"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:114
+msgid "Insert Contact Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:117
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:166
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:182
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:319
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:376
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:408
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:589
+msgid "Content"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:118
+msgid ""
+"Add some contact form shortcodes here. You can also use any other shortcodes "
+"here."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:124
+msgid "Blog"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:125
+msgid "Insert Blog Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:129
+msgid "Select blog section columns."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:133
+msgid "Items"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:134
+msgid "How many items to display."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:140
+msgid "Team"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:141
+msgid "Insert Team Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:145
+msgid "Select team section columns."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:149
+msgid "Align"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:150
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:425
+msgid "Select content alignment."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:157
+msgid "Dismissable Text"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:158
+msgid "Insert Dismissable Text Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:161
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:177
+msgid "Contextual Class"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:162
+msgid "Select class for dismissable alert box."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:167
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:183
+msgid "You can add text or a shortcode here."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:173
+msgid "Alert"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:174
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:178
+msgid "Select class for alert box."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:189
+msgid "Accordion"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:190
+msgid "Insert Accordion Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:193
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:508
+msgid "First Tab ID"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:194
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:509
+msgid "Add first tab ID. This must be unique and one word only."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:197
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:512
+msgid "First Tab Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:198
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:513
+msgid "Add first tab title."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:201
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:516
+msgid "First Tab Content"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:202
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:517
+msgid "Add first tab content."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:205
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:520
+msgid "Second Tab ID"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:206
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:521
+msgid "Add second tab ID. This must be unique and one word only."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:209
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:524
+msgid "Second Tab Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:210
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:525
+msgid "Add second tab title."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:213
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:528
+msgid "Second Tab Content"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:214
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:529
+msgid "Add second tab content."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:217
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:532
+msgid "Third Tab ID"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:218
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:533
+msgid "Add third tab ID. This must be unique and one word only."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:221
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:536
+msgid "Third Tab Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:222
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:537
+msgid "Add third tab title."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:225
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:540
+msgid "Third Tab Content"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:226
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:541
+msgid "Add third tab content."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:233
+msgid "Button"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:234
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:237
+msgid "Class"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:238
+msgid "Select class for buttons."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:242
+msgid "Size"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:243
+msgid "Select button size."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:247
+msgid "Inline Button"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:248
+msgid "Select true if the button should work inline."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:253
+msgid "Add button link."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:256
+msgid "Button Name"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:257
+msgid "Add button name."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:263
+msgid "Portfolio"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:264
+msgid "Insert Portfolio Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:267
+msgid "Portfolio Columns"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:268
+msgid "Select columns for portfolio."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:272
+msgid "Pre-select Category"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:273
+msgid ""
+"Category that will be loaded first in portfolio section. Leave empty to "
+"display all items."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:276
+msgid "Enable Lightbox"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:277
+msgid ""
+"Select true to enable portfolio lightbox, false to enable portfolio link."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:284
+msgid "Testimonial"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:285
+msgid "Insert Testimonial Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:290
+msgid "Video Section"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:291
+msgid "Insert Video Section Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:294
+msgid "Video URL"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:295
+msgid "Add video URL. e.g. //player.vimeo.com/video/82495711"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:298
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:363
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:395
+msgid "Section Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:299
+msgid "This will be s section title."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:302
+msgid "Video container height."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:303
+msgid "Set video container height. e.g. 200"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:306
+msgid "Video container width."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:307
+msgid "Set video container width. e.g. 300"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:310
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:367
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:399
+msgid "Short Description"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:311
+msgid "Video Section Description"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:314
+msgid "Video Position."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:315
+msgid "Alignment of the video"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:320
+msgid "Video section content. Works also with shortcodes"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:326
+msgid "Fullwidth Slider"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:327
+msgid "Insert Fullwidth Slider Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:330
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:350
+msgid "Slider Name"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:331
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:351
+msgid ""
+"Name of the slider. This serves as a slider ID. This must be unique and one "
+"word only."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:335
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:355
+msgid ""
+"This is a slide category. You can see the slideshows in Dashboard -> Slide -"
+"> Slideshows. You must use the slug."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:338
+msgid "Effect."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:339
+msgid "Select slider effect"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:346
+msgid "Slider Section"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:347
+msgid "Insert Slider Section Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:358
+msgid "Enable Caption?"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:359
+msgid "Select true to display caption on top of the slide images"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:364
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:396
+msgid "This is the section title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:368
+msgid "Slider Section Description"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:371
+msgid "Slider Position."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:372
+msgid "Position of the Slider"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:377
+msgid "Slider section content. Works also with shortcodes"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:383
+msgid "Image Section"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:384
+msgid "Insert Image Section Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:387
+msgid "Image URL"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:388
+msgid "Paste Image URL here."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:392
+msgid ""
+"Place here the link where you want to go when the image is clicked. If "
+"empty, it will be in lightbox."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:400
+msgid "Add short description to the section"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:403
+msgid "Image Position."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:404
+msgid "Position of the image"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:409
+msgid "Image section content. Works also with shortcodes."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:415
+msgid "Service"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:416
+msgid "Insert Service Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:420
+msgid "Select columns"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:429
+msgid "Number of Items"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:430
+msgid "Number of items to display."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:437
+msgid "Insert column Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:440
+msgid "One Half"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:441
+msgid "One Third"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:442
+msgid "One Fourth"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:443
+msgid "Column Grid 1"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:444
+msgid "Column Grid 2"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:445
+msgid "Column Grid 3"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:446
+msgid "Column Grid 4"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:447
+msgid "Column Grid 5"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:448
+msgid "Column Grid 6"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:449
+msgid "Column Grid 7"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:450
+msgid "Column Grid 8"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:451
+msgid "Column Grid 9"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:452
+msgid "Column Grid 10"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:453
+msgid "Column Grid 11"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:454
+msgid "Column Grid 12"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:460
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:469
+msgid "Tooltip"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:461
+msgid "Insert Tooltip Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:464
+msgid "Tooltip Position"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:465
+msgid "Select tooltip position."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:470
+msgid "Text that will appear in tooltip."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:473
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:497
+msgid "Text"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:474
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:498
+msgid "Text that will have a tooltip."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:480
+msgid "Popover"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:481
+msgid "Insert Popover Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:484
+msgid "Popover Position"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:485
+msgid "Select popover position."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:489
+msgid "Popover Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:490
+msgid "Popover Title."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:493
+msgid "Popover Content"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:494
+msgid "Content in the popover."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:504
+msgid "Tab"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:505
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:548
+msgid "Modal Box"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:549
+msgid "Insert Modal Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:552
+msgid "Modal Name/ID."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:553
+msgid ""
+"This serves as the modal ID. This must be unique. Note: Use underscore (_) "
+"for a long word name."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:556
+msgid "Modal Trigger Label"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:557
+msgid "Modal Trigger/Button Label."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:560
+msgid "Modal Trigger/Button Size"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:561
+msgid "Select trigger/button size."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:565
+msgid "Modal Trigger/Button Class"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:566
+msgid "Select trigger/button class."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:570
+msgid "Modal Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:571
+msgid "Modal box title."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:574
+msgid "Modal Content"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:575
+msgid "Add modal content here. Also work with shortcode."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:578
+msgid "Modal Footer"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:579
+msgid "Add modal footer content here. Also work with shortcode."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:585
+msgid "Content Wrapper"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:586
+msgid "Insert Content Wrapper Shortcode"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcode_label.php:590
+msgid "Add content here. Works also with shortcodes."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcodes.php:737
+msgid "All"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcodes.php:1076
+msgid "No Comments"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcodes.php:1078
+msgid " Comments"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcodes.php:1080
+msgid "1 Comment"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcodes.php:1084
+msgid "Comments are OFF"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcodes.php:1089
+msgid "Read More"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/shortcode/shortcodes.php:1401
+msgid "Close"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:80
+msgid "Settings reset."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:82
+msgid "Settings saved."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:135
+msgid "General Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:136
+msgid "Footer Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:149
+msgid "Upload Custom Logo."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:151
+msgid "Upload Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:152
+msgid "Remove Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:158
+msgid "Custom Logo Width in pixel. e.g. 200"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:164
+msgid "Custom Logo Height in pixel. e.g. 200"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:170
+msgid "Upload Custom Favicon."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:174
+msgid "Upload Favicon"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:175
+msgid "Remove Favicon"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:185
+msgid "This is the general settings."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:192
+msgid "Footer Text"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:196
+msgid "Enter your site copyright here."
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:217
+msgid "Insert Image!"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:274
+msgid "Start Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:275
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:285
+msgid "Save Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:276
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:286
+msgid "Reset Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:276
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/include/theme_settings.php:286
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/single-portfolio.php:68
+msgid "previous"
+msgstr ""
+
+#: D:\zp_theme_files\themes\start\v1.2.6\start_theme_package_v1_2_6\start/single-portfolio.php:72
+msgid "next"
+msgstr ""
