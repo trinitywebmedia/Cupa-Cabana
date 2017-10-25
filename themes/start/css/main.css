@@ -1,4 +1,6 @@
-@import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Nunito:400,700,300);
+/*@import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Nunito:400,700,300);
+@import url(//fonts.googleapis.com/css?family=Alegreya|Lato);*/
+@import url(//fonts.googleapis.com/css?family=Josefin+Sans|Playfair+Display);
 
 .inline-block {
   display: inline-block;
@@ -24,7 +26,7 @@
   border-top-color: #34495e !important;
 }
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.71109;
@@ -42,7 +44,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #1abc9c;
+  color: #3a2519;
   text-decoration: none;
 }
 
@@ -71,7 +73,7 @@ a:focus {
 }
 
 .caption small {
-    font-family: 'Nunito',sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 12px;
     font-weight: 300;
     letter-spacing: 2px;
@@ -155,7 +157,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   line-height: 1.2; 
 }
@@ -179,6 +181,7 @@ h2,
 h3 {
   margin-top: 2px;
   margin-bottom: 4px;
+  margin-bottom: 24px;
 }
 h4,
 h5,
@@ -195,11 +198,11 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 52px;
+  font-size: 40px;
 }
 h3,
 .h3 {
-  font-size: 40px;
+  font-size: 36px;
 }
 h4,
 .h4 {
@@ -310,6 +313,7 @@ address {
   font-size: 21px;
   line-height: 22px;
   padding: 15px 20px 16px;
+  font-family: 'Josefin Sans', sans-serif;
 }
 .btn.btn-hg > [class^="fui-"],
 .input-group-hg .btn > [class^="fui-"] {
@@ -716,15 +720,16 @@ address {
   color:  #3a2519;
   display: inline-block;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 21px;
   line-height: 28px;
-  padding: 22px 20px;
+  padding: 40px 20px;
   text-shadow: none;
   -webkit-transition: background-color .25s, color .25s, border-bottom-color .25s;
   -moz-transition: background-color .25s, color .25s, border-bottom-color .25s;
   -o-transition: background-color .25s, color .25s, border-bottom-color .25s;
   transition: background-color .25s, color .25s, border-bottom-color .25s;
   -webkit-backface-visibility: hidden;
+  font-family: 'Playfair Display', serif;
 }
 .navbar .nav > li > a:hover,
 .navbar .nav > li > a:focus {
@@ -886,7 +891,7 @@ address {
 }
 .navbar-unread,
 .navbar-new {
-  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-family: 'Playfair Display', serif;
   background-color: #1abc9c;
   border-radius: 50%;
   color: #ffffff;
@@ -1212,7 +1217,7 @@ label {
 .form-control {
   border: 2px solid #bdc3c7;
   color: #34495e;
-  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 15px;
   padding: 8px 12px;
   height: 41px;
@@ -1850,7 +1855,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   background: transparent;
   border: none;
   color: #34495e;
-  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 14px;
   margin: 0px;
   padding: 0 0 0 5px;
@@ -3723,7 +3728,7 @@ a.list-group-item.active > .badge,
   background-color: #2a7aaf;
   border-radius: 50%;
   color: #ffffff;
-  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 12px;
   font-weight: 700;
   line-height: 19px;
@@ -4257,6 +4262,7 @@ a.list-group-item.active > .badge,
   font-size: 22px;
   line-height: 30px;
   margin: 0 0 5px;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .carousel-caption > h4 {
@@ -4499,6 +4505,8 @@ h4 {
 p {
     margin: 0 0 12px;
     padding: 0 0 24px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
 }
 p.lead {
   font-size: 28px;
@@ -4509,9 +4517,11 @@ p.lead {
   margin-bottom: 12px;
   text-align: center;
 }
+
 header h1, .fullwidth_slider .carousel-caption h1 {
     /* text-transform: uppercase; */
-     font-size: 65px;
+    font-size: 72px;
+    font-family: 'Playfair Display', serif;
 }
 
 
@@ -4521,6 +4531,9 @@ header p.lead {
     max-width: 1200px;
     position: relative;
     text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    padding-top: 20px;
 }
 
 /* ========== MISC STYLES ========== */
@@ -4826,6 +4839,8 @@ input {
    color: #FFFFFF;
     margin: 0 auto;
     max-width: 1170px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 20px;
 }
 .fullwidth_slider .carousel-inner > .item{
 	background-position: center;
@@ -5051,7 +5066,7 @@ input {
 }
 
 .plan-price {
-	font-family: 'Montserrat',sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
     font-size: 60px;
     font-weight: 400;
     letter-spacing: -2px;
@@ -5260,6 +5275,7 @@ input {
 
 .blog_items .blog_meta a {
     margin-left: 10px;
+    display: none;
 }
 /* ========== FOOTER ========== */
 #footer {
@@ -5331,7 +5347,7 @@ input {
 .page-image img {
 	/*width: 100%;*/
 	width: 100%;
-	padding-top: 0px;
+	padding-top: 78px;
 }
 	
 .page-image h1 {

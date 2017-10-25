@@ -130,10 +130,10 @@
 
 /* - Post Info & Meta ----------- */
 
-.entry-header {
+/*.entry-header {
     border-bottom: 1px solid #ECF0F1;
     margin: 0 0 32px;
-    /* padding: 0 0 24px; */
+    padding: 0 0 24px; */
 }
 
 .entry-footer {
@@ -149,9 +149,11 @@
     letter-spacing: 1px;
     margin-bottom: 0;
     text-transform: uppercase;
+    display: none;
 }
 .entry-header .entry-meta {
 	margin-bottom: 0;
+	display: none;
 }
 .entry-comments-link {
 	padding: 12px 0;
@@ -198,7 +200,9 @@ Headings
 .entry-title {
     margin-bottom: 32px;
     text-transform: uppercase;
-    margin-top: 50px;
+    margin-top: 10px;
+    font-size: 42px;
+    line-height: 60px;
 }
 
 h1.entry-title a {
@@ -209,11 +213,11 @@ h1.entry-title a:hover {
     color: #1ABC9C;
 }
 .entry-title:after, .author-box:after {
-    background: none repeat scroll 0 0 #0095b8;
+    background: none repeat scroll 0 0 #3a2519;
     /* bottom: -10px; */
     content: "";
     display: block;
-    height: 5px;
+    height: 3px;
     position: relative;
     /* width: 500px; */
     /* margin-top: 14px; */
@@ -423,6 +427,7 @@ Sidebar
 	margin: 0;
 	padding: 0;	
 	text-align: left;
+	font-size: 16px;
 }
 
 

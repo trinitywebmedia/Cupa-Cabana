@@ -1,4 +1,5 @@
 /* Mobile CSS */
+
 span.indicator{
 	display: none;	
 }
@@ -64,6 +65,10 @@ span.indicator{
 .title-area.navbar-brand{
 	display: block;		
 }
+
+.page-image img {
+	display: none;
+	}
 .header-image .site-header .title-area{
 	background-position: center left;	
 }
@@ -859,5 +864,6 @@ p.lead {
 }
 .fullwidth_slider .carousel-caption h1{
 	line-height: 50px;	
+	
 }
 }
