@@ -12,6 +12,14 @@ section.section_wrapper{
 	background-attachment: scroll !important;
 	background-position: center center !important;	
 }
+
+p {
+    /* margin: 0 0 12px; */
+    /* padding: 0 0 24px; */
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+}
+
 .fullwidth_slider .carousel-inner > .item{
 	background-attachment: scroll !important;
 	background-position: center center !important;
@@ -38,7 +46,7 @@ section.section_wrapper{
 	max-height: 715px;	
 }
 .site-inner{
-	margin-top: 60px;	
+	margin-top: 20px;	
 }
 .home .site-inner{
 	margin-top: 0;

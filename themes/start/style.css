@@ -201,13 +201,19 @@ Headings
     margin-bottom: 32px;
     text-transform: uppercase;
     margin-top: 10px;
-    font-size: 42px;
+    font-size: 34px;
     line-height: 60px;
+    color: #3a2519;
 }
 
 h1.entry-title a {
     color: #34495E;
 }
+
+.entry-title a {
+	color: #3a2519;
+}
+
 
 h1.entry-title a:hover {
     color: #1ABC9C;
@@ -358,14 +364,15 @@ Sidebar
 }
 
 .widgettitle {
-    font-size: 16px;
+    font-size: 33px;
     margin-bottom: 32px;
     padding-bottom: 15px;
     position: relative;
     text-transform: uppercase;
+    margin-top: 25px;
 }
 
-.widgettitle:after {
+/*.widgettitle:after {
     background: #1ABC9C;
     bottom: 0;
     content: "";
@@ -373,7 +380,7 @@ Sidebar
     height: 4px;
     position: absolute;
     width: 50px;
-}
+}*/
 
 
 .sidebar p {
