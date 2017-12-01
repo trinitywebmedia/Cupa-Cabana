@@ -34,7 +34,7 @@ p {
 	font-size: 40px;
 	margin-bottom: 32px;
 	text-transform: uppercase;
-	line-height: 50px;
+	line-height: 60px;
 }
 .fullwidth_slider .carousel-inner img{
 	position: relative !important;	
@@ -77,6 +77,7 @@ span.indicator{
 .page-image img {
 	display: none;
 	}
+	
 .header-image .site-header .title-area{
 	background-position: center left;	
 }
@@ -348,6 +349,14 @@ clear: none;
 }
 
 
+
+@media (max-width: 600px)
+mobile.css?ver=4.9.1:873
+.fullwidth_slider .carousel-caption h1 {
+    line-height: 65px;
+}
+
+
 /* copy */
 
 @media (max-width: 480px) {
@@ -372,7 +381,7 @@ clear: none;
 }
 h1 {
 	font-size: 40px;
-	line-height: 45px;
+	line-height: 60px;
 	margin-bottom:10px;
 }
 p.lead {

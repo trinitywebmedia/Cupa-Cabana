@@ -4522,6 +4522,7 @@ p.lead {
 header h1, .fullwidth_slider .carousel-caption h1 {
     /* text-transform: uppercase; */
     font-size: 72px;
+    line-height: 60px;
     font-family: 'Playfair Display', serif;
 }
 
